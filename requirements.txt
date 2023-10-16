@@ -1,2 +1,3 @@
 tensorflow
 codecarbon
+keras_cv
