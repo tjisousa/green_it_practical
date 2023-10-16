@@ -1,4 +1,6 @@
 {
+  "name": "Green IT - Practical",
+  "postCreateCommand": "pip install -r requirements.txt",
   "customizations": {
     "vscode": {
       "extensions": ["ms-python.python", "ms-toolsai.jupyter"]
